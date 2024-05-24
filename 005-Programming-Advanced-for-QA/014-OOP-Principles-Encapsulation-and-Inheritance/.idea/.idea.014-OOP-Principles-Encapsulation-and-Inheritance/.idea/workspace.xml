@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be3eb03e-a4c8-497d-bf65-97035565cfa0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/TestApp/EmailValidator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/TestApp/MatchDates.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/TestApp/MatchNames.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/TestApp/MatchPhoneNumbers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/TestApp/MatchUrls.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/TestApp/Pattern.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/TestApp/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/TestApp/RepeatStrings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/TestApp/ReverseConcatenate.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/TestApp/Substring.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/TestApp/TextFilter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/TestApp/Article.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/TestApp/Person.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/TestApp/Planet.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/TestApp/Song.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/TestApp/Store/Box.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/TestApp/Store/Item.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/TestApp/Store/Shop.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/TestApp/Student.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/TestApp/Vehicle/Car.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/TestApp/Vehicle/Catalogue.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/TestApp/Vehicle/Truck.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/TestApp/Vehicle/Vehicles.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../009-Definning-Classes/Ex001/Car.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../009-Definning-Classes/Ex001/Engine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../009-Definning-Classes/Ex001/Tire.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../010-Exercise-Objects-and-Classes/Ex001/Student.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../010-Exercise-Objects-and-Classes/Ex002/Article.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../010-Exercise-Objects-and-Classes/Ex003/Team.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../010-Exercise-Objects-and-Classes/Ex004/Pokemon.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../010-Exercise-Objects-and-Classes/Ex004/Trainer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-Unit-Testing-Exercise-Objects-and-Classes/TestApp/Article.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-Unit-Testing-Exercise-Objects-and-Classes/TestApp/Person.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-Unit-Testing-Exercise-Objects-and-Classes/TestApp/Planet.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-Unit-Testing-Exercise-Objects-and-Classes/TestApp/Song.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-Unit-Testing-Exercise-Objects-and-Classes/TestApp/Store/Box.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-Unit-Testing-Exercise-Objects-and-Classes/TestApp/Store/Item.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-Unit-Testing-Exercise-Objects-and-Classes/TestApp/Store/Shop.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-Unit-Testing-Exercise-Objects-and-Classes/TestApp/Student.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-Unit-Testing-Exercise-Objects-and-Classes/TestApp/Vehicle/Car.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-Unit-Testing-Exercise-Objects-and-Classes/TestApp/Vehicle/Catalogue.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-Unit-Testing-Exercise-Objects-and-Classes/TestApp/Vehicle/Truck.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-Unit-Testing-Exercise-Objects-and-Classes/TestApp/Vehicle/Vehicles.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-Unit-Testing-Exercise-Objects-and-Classes/Tests/ArticleTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-Unit-Testing-Exercise-Objects-and-Classes/Tests/PersonTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-Unit-Testing-Exercise-Objects-and-Classes/Tests/PlanetTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-Unit-Testing-Exercise-Objects-and-Classes/Tests/ShopTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-Unit-Testing-Exercise-Objects-and-Classes/Tests/SongTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-Unit-Testing-Exercise-Objects-and-Classes/Tests/StudentTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../011-Unit-Testing-Exercise-Objects-and-Classes/Tests/VehicleTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../013-Unit-Testing-Exercise-Exception-Handling/TestApp/Exceptions.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2guwEBjlldrQH8fs6JsVREjWRBL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be3eb03e-a4c8-497d-bf65-97035565cfa0" name="Changes" comment="" />
+      <created>1716560656793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716560656793</updated>
+      <workItem from="1716560658346" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
